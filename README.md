@@ -1,0 +1,1 @@
+This is a repo for testing sharing one prisma schema between multiple microservice repos via git submodules. This repo holds the prisma schema; [service-a](https://github.com/raymosun/prisma-multirepo-service-a) and [service-b](https://github.com/raymosun/prisma-multirepo-service-b) simulate microservices that use the unified schema.
